@@ -22,8 +22,7 @@ embedder = SentenceTransformer("all-MiniLM-L6-v2")
 
 # ====== GOOGLE DRIVE PDF LINKS ======
 drive_links = [
-    "https://drive.google.com/file/d/1sFbj-m4gHPU1vaY49nTtcGSsOkQ87lJM/view?usp=sharing",
-    "https://drive.google.com/file/d/1javaraiucbTQfzKc465YKJtz30SN3OIA/view?usp=sharing"
+
 ]
 
 # ====== DOWNLOAD PDF FROM DRIVE ======
